@@ -4,6 +4,9 @@ using Processing
 
 _Instructions:_
 
+To finish the game move empty cell in any directions, so the cells will change their position. Puzzle is correctly arranged when cells are in ordered position. Have fun!
+
+
 MOVE     : UP, DOWN, RIGHT, LEFT
 
 
